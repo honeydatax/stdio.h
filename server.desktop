@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=server
+Comment=java server
+Exec='python -m CGIHTTPServer 8080'
+Icon=
+Path=/home/pi/downloader/
+Terminal=true
+StartupNotify=false
