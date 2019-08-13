@@ -1,5 +1,5 @@
 #!/usr/bin/ruby  -w
-put  "Content-type:text/html\r\n\r\n";
-put "<html><head><title>ruby server</title></head><body><h1>";
-put "hello world from ruby.!";
-put "</h1></body></html>";
+puts  "Content-type:text/html\r\n\r\n";
+puts "<html><head><title>ruby server</title></head><body><h1>";
+puts "hello world from ruby.!";
+puts "</h1></body></html>";
